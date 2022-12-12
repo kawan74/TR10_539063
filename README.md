@@ -1,5 +1,5 @@
 
-## Trabalho 10 de Laboratório
+## Trabalho 3 de Laboratório
 ![Badge concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 <h1 align="center">🗄️ Vetor de Bits</h1>
