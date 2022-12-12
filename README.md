@@ -24,7 +24,7 @@
 <p>Para baixar, é necessário rodar o programa para baixar os arquivos necessários. Para fazer isso, digite:</p>
 
 <code>
-<span style="color: tomato">»</span> git clone https://github.com/zMarcoos/TR10_539063.git
+<span style="color: tomato">»</span> git clone https://github.com/kawan74/TR10_539063.git
 </code>
 <br>
 
@@ -35,7 +35,7 @@
 
 
 <code>
-<span style="color: tomato">»</span>gcc TR3_536281.c -o TR3_539063
+<span style="color: tomato">»</span>gcc TR3_539063.c -o TR3_539063
 </code>
 
 <br>
