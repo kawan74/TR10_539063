@@ -24,7 +24,7 @@
 <p>Para baixar, é necessário rodar o programa para baixar os arquivos necessários. Para fazer isso, digite:</p>
 
 <code>
-<span style="color: tomato">»</span> git clone https://github.com/zMarcoos/TR10_536281.git
+<span style="color: tomato">»</span> git clone https://github.com/zMarcoos/TR10_539063.git
 </code>
 <br>
 
@@ -35,16 +35,16 @@
 
 
 <code>
-<span style="color: tomato">»</span>gcc TR3_536281.c -o TR3_536281
+<span style="color: tomato">»</span>gcc TR3_536281.c -o TR3_539063
 </code>
 
 <br>
 
 <p>Explicação:
 
-<li><span style="font-weight: bold; color: tomato">TR3_536281.c</span> é a parte principal do código, na qual o código será executado.</li>
+<li><span style="font-weight: bold; color: tomato">TR3_539063.c</span> é a parte principal do código, na qual o código será executado.</li>
 <li><span style="font-weight: bold; color: tomato">-o</span> é uma flag utilizada para nomeação de arquivos.</li>
-<li><span style="font-weight: bold; color: tomato">TR3_536281</span> é a nomeação do arquivo executável resultante.</li>
+<li><span style="font-weight: bold; color: tomato">TR3_539063</span> é a nomeação do arquivo executável resultante.</li>
 </p>
 
 <hr>
@@ -52,9 +52,9 @@
 <p>Para executar o programa, vá ao seu terminal e digite:</p>
 🐧 Linux: <br>
 <code>
-<span style="color: tomato">»</span>./TR3_536281</code>
+<span style="color: tomato">»</span>./TR3_539063</code>
 
 🪟 Windows: <br>
 <code>
-<span style="color: tomato">»</span>./TR3_536281.exe 
+<span style="color: tomato">»</span>./TR3_539063.exe 
 </code>
